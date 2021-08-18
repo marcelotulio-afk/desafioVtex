@@ -1,3 +1,5 @@
+Uma loja virtual de eletrodomésticos e eletrônicos, com banner carrosel e com carrinho de checkout que calcula o frete e informa o resumo da compra.
+
 # Minimum Boilerplate Theme
 
 The minimum Boilerplate Theme is basic store front model based on the VTEX IO Store Framework.
